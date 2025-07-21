@@ -2,21 +2,21 @@
 
 Simple web app template with Angular + NestJS + ng-openapi-gen + Angular Material.
 
-Deployable on Heroku, Render, Google App Engine (GAE), Cloud Run and other hosting services using with/without Docker ([learn more](https://github.com/mugifly/angular-nest/wiki/#Deployments)).
+Deployable on Heroku, Render, Google App Engine (GAE), Cloud Run and other hosting services using with/without Docker ([learn more](https://github.com/andrewthomas9/angular-nest/wiki/#Deployments)).
 
-[![Build](https://github.com/mugifly/angular-nest/actions/workflows/build.yml/badge.svg?event=push)](https://github.com/mugifly/angular-nest/actions/workflows/build.yml)
+[![Build](https://github.com/andrewthomas9/angular-nest/actions/workflows/build.yml/badge.svg?event=push)](https://github.com/andrewthomas9/angular-nest/actions/workflows/build.yml)
 
 ---
 
 ## Key Elements
 
-There is some variations... https://github.com/mugifly/angular-nest/wiki#variations
+There is some variations... https://github.com/andrewthomas9/angular-nest/wiki#variations
 
 - Angular -- for Frontend app.
 - NestJS -- for Backend app.
 - ng-openapi-gen -- for API Client generation.
 - Angular Material -- for UI.
-  - NOTE: There is also a [vanilla branch](https://github.com/mugifly/angular-nest/tree/vanilla) that doesn't include Angular Material.
+  - NOTE: There is also a [vanilla branch](https://github.com/andrewthomas9/angular-nest/tree/vanilla) that doesn't include Angular Material.
 - Docker -- for Production environment.
   - NOTE: Deployments without Docker are also supported.
 - Karma + Jasmine -- for Unit testing of Frontend (with Puppeteer + Headless Chromium)
